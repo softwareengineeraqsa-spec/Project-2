@@ -1,5 +1,3 @@
-# Project-2
-House Price Prediction
 # House Price Prediction
 
 This project trains regression models to predict house prices from property features such as square footage, bedrooms, bathrooms, and location-based fields.
